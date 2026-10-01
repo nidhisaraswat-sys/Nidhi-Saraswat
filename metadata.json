@@ -1,0 +1,8 @@
+{
+  "name": "AI Science Lab Assistant",
+  "description": "Intelligent Laboratory Component Recognition, Learning & Project Generation System for school science, ATL, and robotics labs.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
